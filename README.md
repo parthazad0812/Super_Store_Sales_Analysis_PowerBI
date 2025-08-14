@@ -31,7 +31,7 @@ This dashboard addresses these issues by:
 ---
 
 ## 📂 Dataset
-- **Source:** SuperStore dataset (Sample dataset often used in data analytics projects)
+- **Source:** SuperStore dataset ([Sample dataset often used in data analytics projects](https://github.com/parthazad0812/Super_Store_Sales_Analysis_PowerBI/blob/main/SuperStore_Sales_Dataset.csv))
 - **Key Fields:**
   - `Order Date`
   - `Sales`
