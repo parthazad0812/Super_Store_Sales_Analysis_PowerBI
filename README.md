@@ -1,10 +1,9 @@
 # 📊 SuperStore Sales Analysis & 15-Day Forecast – Power BI Project
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](link-to-dashboard-image)
-
+![Dashboard Screenshot](https://github.com/parthazad0812/Super_Store_Sales_Analysis_PowerBI/blob/main/Dash_Snap.png)
 ## 📷 Forecast Snapshot
-![Forecast Screenshot](link-to-forecast-image)
+![Forecast Screenshot](https://github.com/parthazad0812/Super_Store_Sales_Analysis_PowerBI/blob/main/Forecast_Snap.png)
 
 ## 📌 Introduction
 This project is a **Power BI dashboard** designed to analyze and forecast sales for the **SuperStore** dataset.  
